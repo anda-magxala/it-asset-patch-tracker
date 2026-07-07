@@ -41,3 +41,22 @@ src/
 - JavaFX GUI
 - Email notifications
 - Export reports to PDF/CSV
+
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main.png)
+
+### Add Asset
+
+![Add Asset](screenshots/asset.png)
+
+### View Assets
+
+![View Assets](screenshots/view-assets.png)
+
+### Install Patch
+
+![Install Patch](screenshots/patches.png)
